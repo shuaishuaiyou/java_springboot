@@ -16,7 +16,7 @@ import org.springframework.web.servlet.view.JstlView;
 import java.util.List;
 
 /**
- * Created by 帅帅 on 2017/11/9.
+ * Created by 帅帅 on 2017/11/9
  */
 @Configuration
 @EnableWebMvc //开启springmvc的支持
